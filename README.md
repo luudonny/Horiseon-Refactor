@@ -7,10 +7,10 @@ It was created to change the previous code of the website to be more efficient a
 
 In this project, 
 
-*HTML elements were replaced with semantic elements
-*Repetitive classes were simplified
-*Comments were added to explain changes 
-*Maintained look of project with changes of code
+-HTML elements were replaced with semantic elements
+-Repetitive classes were simplified
+-Comments were added to explain changes 
+-Maintained look of project with changes of code
 
 ## Installation
 
